@@ -1,4 +1,4 @@
-# occulted-flares
+# Analysis of spectra, images and light curves for occulted RHESSI flares from 2002-2004 and 2011-2015
 Analysis of results for the study of occulted flares, published in Effenberger et al. 2017, ApJ
 
 We analyze two data sets of occulted flares from solar cycle 23 and 24 with different spectral fits, in their high and low energy spatial seperation and their light curves as correlated with the soft X-ray GOES flux. Additional STEREO height and equivalent GOES class information is included, when available.
